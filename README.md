@@ -1,10 +1,17 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Exploying GitHub's community starter kit:
+- Community
+- Sharing
+- And more.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Coding
+- Branches
+- Pull Requests
+- Reviewing
+- Merging
 
 ## Getting started
 
